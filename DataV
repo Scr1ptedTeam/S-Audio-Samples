@@ -3,16 +3,19 @@
     {
       "Name": "Crystalix",
       "Type": "Serum Presets",
+      "Format": "zip",
       "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/SAudio/refs/heads/main/PicData/Sverb.png"
     },
     {
       "Name": "Obsidian",
       "Type": "Serum Presets",
+      "Format": "zip",
       "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/SAudio/refs/heads/main/PicData/Sverb.png"
     },
     {
       "Name": "S-Drums",
       "Type": "Sample Pack",
+      "Format": "zip",
       "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/SAudio/refs/heads/main/PicData/Scr1ptedDevelopment2025.png"
     }
   ]
