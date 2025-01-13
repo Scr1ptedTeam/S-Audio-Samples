@@ -11,14 +11,14 @@
       "Name": "PianoHDrum",
       "Type": "Serum Presets",
       "Format": "scontent",
-      "ToDelete": "PH",
+      "ToDelete": "PianoHDrum",
       "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/S-Audio-Samples/refs/heads/main/PackIcos/PianoHouse.png"
     },
     {
       "Name": "Jewel",
       "Type": "Sample Pack",
       "Format": "scontent",
-      "ToDelete": "JW",
+      "ToDelete": "StillWorkinOn",
       "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/S-Audio-Samples/refs/heads/main/PackIcos/Jewel.png"
     },
     {
