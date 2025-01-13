@@ -9,7 +9,7 @@
     },
     {
       "Name": "PianoHDrum",
-      "Type": "Serum Presets",
+      "Type": "Sample Pack",
       "Format": "scontent",
       "ToDelete": "PianoHDrum",
       "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/S-Audio-Samples/refs/heads/main/PackIcos/PianoHouse.png"
