@@ -25,7 +25,7 @@
       "Name": "Secret",
       "Type": "Misc",
       "Format": "scontent",
-      "ToDelete": "SC",
+      "ToDelete": "Secret",
       "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/S-Audio-Samples/refs/heads/main/PackIcos/Box_Secret.png"
     }
   ]
