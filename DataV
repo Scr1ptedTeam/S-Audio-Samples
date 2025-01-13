@@ -1,22 +1,28 @@
 {
   "Products": [
     {
-      "Name": "Crystalix",
+      "Name": "Aurum",
       "Type": "Serum Presets",
       "Format": "scontent",
-      "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/SAudio/refs/heads/main/PicData/Sverb.png"
+      "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/S-Audio-Samples/refs/heads/main/PackIcos/AURUM_SerumPack.png"
     },
     {
-      "Name": "Obsidian",
+      "Name": "PianoHDrum",
       "Type": "Serum Presets",
       "Format": "zip",
-      "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/SAudio/refs/heads/main/PicData/Sverb.png"
+      "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/S-Audio-Samples/refs/heads/main/PackIcos/PianoHouse.png"
     },
     {
-      "Name": "S-Drums",
+      "Name": "Jewel",
       "Type": "Sample Pack",
       "Format": "scontent",
-      "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/SAudio/refs/heads/main/PicData/Scr1ptedDevelopment2025.png"
+      "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/S-Audio-Samples/refs/heads/main/PackIcos/Jewel.png"
+    },
+    {
+      "Name": "Test",
+      "Type": "Misc",
+      "Format": "scontent",
+      "ImagePath": "https://raw.githubusercontent.com/Scr1ptedTeam/S-Audio-Samples/refs/heads/main/PackIcos/Jewel.png"
     }
   ]
 }
